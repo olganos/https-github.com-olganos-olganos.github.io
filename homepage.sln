@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9B65F461-F12A-416A-B0B4-6BBC42F0670D}"
+	ProjectSection(SolutionItems) = preProject
+		android-chrome-192x192.png = android-chrome-192x192.png
+		android-chrome-512x512.png = android-chrome-512x512.png
+		apple-touch-icon.png = apple-touch-icon.png
+		..\..\..\..\Users\Olga\Desktop\cats.jpg = ..\..\..\..\Users\Olga\Desktop\cats.jpg
+		favicon-16x16.png = favicon-16x16.png
+		favicon-32x32.png = favicon-32x32.png
+		favicon.ico = favicon.ico
+		index.html = index.html
+		manifest.json = manifest.json
+		mayka.html = mayka.html
+		rusya.html = rusya.html
+		sam.html = sam.html
+		script.js = script.js
+		styles.css = styles.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54DF4342-B4B0-4A0C-8F91-2E9CB2803202}
+	EndGlobalSection
+EndGlobal
